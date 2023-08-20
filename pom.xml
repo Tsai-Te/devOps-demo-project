@@ -49,7 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>devOps-demo-project</finalName>
+		<finalName>devops-demo-project</finalName>
 	</build>
 
 </project>
