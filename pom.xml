@@ -8,11 +8,11 @@
 		<version>3.1.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devOps-demo</groupId>
-	<artifactId>devOps-demo-project</artifactId>
+	<groupId>com.devops-demo</groupId>
+	<artifactId>devops-demo-project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>devOps-demo-project</name>
-	<description>Demo project for Spring Boot with devOps demo</description>
+	<name>devops-demo-project</name>
+	<description>Demo project for Spring Boot with devops demo</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
